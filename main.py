@@ -11,7 +11,7 @@ def multiplicar(a, b):
 def dividir(a, b):
     if b==0:
         print('Division para Cero')
-    else
+    else:
         return (a/b)
 
 def main():
