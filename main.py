@@ -10,7 +10,7 @@ def multiplicar(a, b):
 
 def dividir(a, b):
     if b==0:
-        result = None
+        result = 'None'
     else:
         result = (a/b)
     return result
