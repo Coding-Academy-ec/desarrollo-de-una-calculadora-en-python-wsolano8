@@ -10,7 +10,7 @@ def multiplicar(a, b):
 
 def dividir(a, b):
     if b==0:
-        print('Division para Cero')
+       return print('Division para Cero')
     else:
         return (a/b)
 
