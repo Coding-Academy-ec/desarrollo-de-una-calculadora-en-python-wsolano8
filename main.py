@@ -10,7 +10,7 @@ def multiplicar(a, b):
 
 def dividir(a, b):
     if (b==0):
-        result = 1
+        result = "Error: No se puede dividir por cero"
     else:
         result = (a/b)
     return result
