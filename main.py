@@ -9,8 +9,8 @@ def multiplicar(a, b):
     return (a*b)
 
 def dividir(a, b):
-    if b==0:
-        result = 'None'
+    if (b==0):
+        result = 1
     else:
         result = (a/b)
     return result
